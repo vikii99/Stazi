@@ -12,13 +12,13 @@ Change into the project directory:
 
 Install dependencies using npm or yarn:
 - npm install
-# or
+or
 - yarn install
 
 
 Start the development server:
 - npm run dev
-# or
+or
 - yarn dev
 
 
