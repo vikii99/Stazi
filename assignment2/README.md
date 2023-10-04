@@ -3,6 +3,13 @@
 This is a template repository for kickstarting React projects using Vite. Vite is a fast development server and build tool that aims to make development with modern web technologies easier and faster.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+# Project: Seller App for Property
+- The project as stated in the problem statement, displays apartments available for rent.
+- The data of apartments is stored in a json file in the assets folder
+- Consists of four tabs with the first tab active when the page opens, click on other tab renders the respective action.
+- Load more at the end of page displays three more items at the end.
+- Click on the "Read more" button of the property card redirects to the display page of that particular property.
+
 # Getting Started
 Clone this repository to your local machine:
 - git clone https://github.com/your-username/vite-react-project-name.git
